@@ -225,10 +225,14 @@ nav ul li a:hover{
 }
 
 .loan-section p{
+    margin-right: 20px;
+    margin-left: 20px;
     padding-top: 10px;
     /* font-weight: bold; */
     font-size: 16px;
     text-decoration: none;
+    /* width: 450px; */
+    
 }
 .loan-section p a{
     text-decoration: none;
@@ -238,20 +242,26 @@ nav ul li a:hover{
     color: green;
 }
 .loan-icon{
+    width: 70px;
+    height: 70px;
+}
+.home-icon,
+.marr-icon,
+.person-icon,
+.car-icon
+{
+    margin-top: 8px;
+}
+.ed-icon{
     width: 80px;
     height: 80px;
 }
-.ed-icon{
-    width: 90px;
-    height: 90px;
-}
+
 .bs-icon{
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
 }
-/* .ed-p{
-    margin-top: 0px;
-} */
+
 .loan-section h1 {
     padding-top: 20px;
     background: lightgray;
