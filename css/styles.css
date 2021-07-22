@@ -10,6 +10,10 @@ html{
     font-family: 'Lato';
 }
 
+body{
+    background-color: lightgray;
+}
+
 .container{
     box-sizing:border-box;
     height: 100vh;
@@ -262,16 +266,14 @@ nav ul li a:hover{
     height: 80px;
 }
 
-.loan-section h1 {
+.loan-section h1,h3 {
     padding-top: 20px;
-    background: lightgray;
     position: relative;
     z-index: 1;
     text-align: center;
 }
 
 .loan-section span { 
-    background: lightgray; 
     padding: 0 15px; 
 }
 
@@ -295,3 +297,11 @@ nav ul li a:hover{
         grid-template-columns: repeat(1, 1fr);
     }
   }
+
+  .partners {
+    width:  30%;
+    height: 30%;
+    object-fit: cover;
+    border: 1px solid black;
+    border-radius: 5px;
+}
