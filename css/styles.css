@@ -245,7 +245,7 @@ nav ul li a:hover{
     color: blue;
 }
 .loan-section p a:hover{
-    color: green;
+    color: #013220;
 }
 .loan-icon{
     width: 70px;
@@ -321,7 +321,7 @@ nav ul li a:hover{
   .border{
     width: 160px;
     height: 5px;
-    background: #01281a;
+    background: #013220;
     margin: 26px auto;
   }
   
@@ -352,7 +352,7 @@ nav ul li a:hover{
     margin: 20px 0;
   }
   .stars{
-    background-color: linear-gradient(110deg, #f7ca25 30%, #f49a26 60%);
+    color: #f49a26;
     margin-bottom: 20px;
   }
   
@@ -407,7 +407,7 @@ nav ul li a:hover{
   }
   
   .flip-card-back {
-    background-color: #01281a;
+    background-color: #013220;
     color: white;
     transform: rotateY(180deg);
   }
