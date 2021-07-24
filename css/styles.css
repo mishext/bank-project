@@ -51,7 +51,7 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: green;
+    color: #013220;
     font-size: 20px;
     /* text-transform: uppercase; */
     padding: 0px 20px;
@@ -72,7 +72,7 @@ nav ul li a:hover{
     float: right;
     line-height: 100px;
     display: none;
-    color: green;
+    color: #004225;
     right: 0;
     position: absolute;
     padding-right: 30px;
@@ -95,7 +95,7 @@ nav ul li a:hover{
     line-height: 100px;
 }
 .menu a{
-    color: green;
+    color: #004225;
     text-decoration: none;
     padding: 0 10px;
     font-size: 25px;
@@ -120,7 +120,7 @@ nav ul li a:hover{
     border: none;
 }
 .register-button:hover{
-    color:green;
+    color:#004225;
 }
 /* .lang{
     width: 25px;
@@ -245,7 +245,7 @@ nav ul li a:hover{
     color: blue;
 }
 .loan-section p a:hover{
-    color: #013220;
+    color: #004225;
 }
 .loan-icon{
     width: 70px;
@@ -321,7 +321,7 @@ nav ul li a:hover{
   .border{
     width: 160px;
     height: 5px;
-    background: #013220;
+    background: #004225;
     margin: 26px auto;
   }
   
@@ -407,7 +407,7 @@ nav ul li a:hover{
   }
   
   .flip-card-back {
-    background-color: #013220;
+    background-color: #004225;
     color: white;
     transform: rotateY(180deg);
   }
