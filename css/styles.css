@@ -321,7 +321,7 @@ nav ul li a:hover{
   .border{
     width: 160px;
     height: 5px;
-    background: #013220;
+    background: #01281a;
     margin: 26px auto;
   }
   
@@ -407,7 +407,7 @@ nav ul li a:hover{
   }
   
   .flip-card-back {
-    background-color: #013220;
+    background-color: #01281a;
     color: white;
     transform: rotateY(180deg);
   }
