@@ -175,6 +175,8 @@ nav ul li a:hover {
   color: black;
   font-size: 20px;
   writing-mode: vertical-lr;
+  padding-right: 20px;
+  padding-top: 10px;
 }
 .login-p:hover {
   color: black;
