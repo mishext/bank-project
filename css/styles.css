@@ -440,7 +440,8 @@ footer .content {
   max-width: 1350px;
   margin: auto;
   /* padding: 20px; */
-  padding-top: 40px;
+  padding-top: 100px;
+  margin-bottom: 30px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -465,7 +466,7 @@ footer .content .box {
 footer .content .topic {
   font-size: 22px;
   font-weight: 600;
-  color: black;
+  color: #004225;
   margin-bottom: 16px;
 }
 .upper .topic {
@@ -604,7 +605,7 @@ footer a:hover {
   background-color: #f1f1f1;
 }
 .wrap {
-  margin-top: 5%;
+  margin-top: 8%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -638,10 +639,13 @@ footer a:hover {
 }
 
 .servicepara {
+  padding-left: 5px;
+  padding-right: 5px;
   margin-top: 5%;
   text-align: justify;
   text-justify: distribute;
   text-align-last: left;
+  color: gray;
 }
 .cardimg {
   max-width: 30%;
